@@ -26,7 +26,9 @@
 - The program that's in this file is my interview question or just my skills set of how I code, in the folder questions, 
   the question is asked, I will add more to it if I have time in the future.
   
-  
+- Facebook connect: https://www.facebook.com/jaami.mustafa
+- Telegram connect: +27 670987100
+- Discord connect : Dustymage#3496
 <!---
 Dustymage/Dustymage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
